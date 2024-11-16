@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4044","CreateNewStudent","","Sat Nov 16 16:20:49 IST 2024","passed","Sat Nov 16 16:20:53 IST 2024","","com.student.tests.CrudTest","com.student.tests.CrudTest","createNewStudent"
+"","156","GetAllStudents","","Sat Nov 16 16:20:53 IST 2024","passed","Sat Nov 16 16:20:53 IST 2024","","com.student.tests.CrudTest","com.student.tests.CrudTest","getAllStudents"

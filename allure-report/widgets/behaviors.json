@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"1a0456107a76fb6f49a283d611ce110a","name":"This is a test to create new student","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"96f50a46d9097642aebd24ffc647b003","name":"This is a test to get all students from the Database","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
